@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.thezero.projectx</groupId>
-  <artifactId>thezero-projectx</artifactId>
+  <artifactId>projectx</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
